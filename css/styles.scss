@@ -1,0 +1,57 @@
+body {
+    font-size: 16px;
+}
+/*1.NAVIGATION*/
+
+
+/*1.NAVIGATION start*/
+
+.navbar-section {
+    background-color: #fced3a;
+    
+
+
+.navbar {
+    .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+    .navbar-collapse {
+    text-align: center;
+}
+   
+    }
+    
+.mynavbar {
+    background-color: transparent;
+    border: none;  
+    
+    .mynavbarlinks  {
+        border-color: transparent;
+        
+        li{
+            a{
+                    color: black;
+
+                
+            }
+            
+        } 
+}
+    
+  
+}
+    
+} 
+
+
+
+
+
+/*MEDIA QUERIES*/
+
+@media screen and (max-width: 992px){
+    .mynavbarlinks {
+        display: none;
+    } 
+}
